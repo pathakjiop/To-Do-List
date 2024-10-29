@@ -32,7 +32,7 @@ export default function Main() {
           value={newTodo}
           onChange={(e) => setNewTodo(e.target.value)}
           placeholder="Add a new task"
-          className="flex-grow mr-2"
+          className="border-solid border-2 border-gray-800 flex-grow mr-2 rounded-lg jusify-center p-2"
           onKeyPress={(e) => e.key === 'Enter' && addTodo()}
         />
         <button onClick={addTodo} type="button" class="btn btn-dark">Add</button>
