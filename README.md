@@ -5,14 +5,6 @@ A simple and elegant To-Do List application built with React, featuring task add
 
 ---
 
-
-## 🖥️ Live Demo 
-
-> Link to the live demo, if hosted (e.g., Vercel, Netlify).
-
----
-
-
 ## 📂 Project Structure 
 
 
