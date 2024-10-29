@@ -58,13 +58,13 @@ src/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/todo-list-app.git
+git clone https://github.com/pathakjiop/To-Do-List
 ```
  
 2. Install dependencies:
 
 ```bash
-cd todo-list-app
+cd To-Do-List
 npm install
 ```
  
